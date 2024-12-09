@@ -1,7 +1,4 @@
-<style>
-p    {color: red; size: 20px;}
-</style>
-<p align="left">hi there<br>im asia <br>just a student who made this profile to use it for uni :p<br>i also enjoy UI design<br><br>⛵ sailing in my free time ⛵</p>
+<h1 align="left">hi there<br>im asia <br>just a student who made this profile to use it for uni :p<br>i also enjoy UI design<br><br>⛵ sailing in my free time ⛵</h1>
 
 ###
 

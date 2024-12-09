@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="" src="https://drive.google.com/file/d/1UxQYTZMRa0b1Xoj9kXiXhCYpNzPOf0oO/view?usp=sharing"  />
+  <img height="" src="https://github.com/asiagorczyca/asiagorczyca/blob/main/IMG_2785.JPEG?raw=true"  />
 </div>
 
 ###

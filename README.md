@@ -2,6 +2,7 @@
 <p>just a student who made this profile to use it for uni :p<br>i also enjoy UI design<br><br>⛵ sailing in my free time ⛵</p>
 
 My website: https://asiagorczyca.github.io/
+
 Link do artykułu: https://paperswithcode.com/paper/detecting-deepfakes-without-seeing-any#code
 Link do forka: https://github.com/asiagorczyca/FACTOR
 

@@ -2,7 +2,7 @@
 <p>just a student who made this profile to use it for uni :p<br>i also enjoy UI design<br><br>⛵ sailing in my free time ⛵</p>
 
 ###
-<br></br>
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=asiagorczyca&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
